@@ -67,7 +67,7 @@ footer{display: block; margin-top: 10px; background-color: aquamarine;}
     width: 100%;
 }
 #about{
-    background-image: url('./images/saree.jpg');
+    background-image: url('/images/saree.jpg');
     transform: scaleX(-1);
     background-repeat: no-repeat;
     background-size:100% 100%;
@@ -90,7 +90,7 @@ footer{display: block; margin-top: 10px; background-color: aquamarine;}
 .contactsec h3 {border-bottom: #555555 2px; font-size: 18px;}
 .contact{background-color: rgb(151, 50, 50); border-radius: 5px;padding: 20px;}
 #contact{
-    background-image: url('./images/saree3.jpg');
+    background-image: url('/images/saree3.jpg');
     background-repeat: no-repeat;
     background-size:100% 100%;
 }
